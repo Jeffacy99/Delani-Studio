@@ -23,7 +23,6 @@ $(".click0").click(function(){
     alert('Thank you ' + ' we will respond shortly. ' + '!');
     party.preventDefault();
 });
-//  *************RESET FORM*****************
 $("button").on('click', function(){
   $('form').each(function(){
     this.reset();
