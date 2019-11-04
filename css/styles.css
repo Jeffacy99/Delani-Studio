@@ -22,6 +22,7 @@ body{
 footer{
   text-align: center;
   margin-top: 5%;
+  color: aqua;
 }
 
 .container {
@@ -96,4 +97,7 @@ opacity: 0.55;
 .meso{
 text-align: center;
 width: 100%;
+}
+.btn{
+  color: yellow;
 }
