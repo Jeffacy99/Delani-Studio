@@ -20,7 +20,7 @@ $(".click0").click(function(){
   });
   $("button").click(function(party) {
     var client = document.getElementById('nameDetail').value;
-    alert('Thanks ' + ' we have received your message successful. ' + '!');
+    alert('Thank you ' + ' we will respond shortly. ' + '!');
     party.preventDefault();
 });
 //  *************RESET FORM*****************
