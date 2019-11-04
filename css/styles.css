@@ -22,7 +22,7 @@ body{
 footer{
   text-align: center;
   margin-top: 5%;
-  color: aqua;
+  color:grey;
 }
 
 .container {
@@ -99,5 +99,5 @@ text-align: center;
 width: 100%;
 }
 .btn{
-  color: yellow;
+  color: green;
 }
