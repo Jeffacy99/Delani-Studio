@@ -22,11 +22,7 @@ I am a young ambicious youth about programming and looking forward in being the 
 
 
 ## BDD
-1.User is expected to find out their Akan Name based on their birthday and gender
-2. The user inputs their gender and their birth date,month and year in the form.
-3. On clicking submit, the web application calculates:
->The day of the week you were born
->The akan name given on that day
+This is fictional landing page for Delani studio which describes and explains about the services they offer and an elaboration who they are and how you can contact them.
   
 
 
