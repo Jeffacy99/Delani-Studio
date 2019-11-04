@@ -18,3 +18,14 @@ $(".click0").click(function(){
     $(".hide2").slideToggle(1000);
     $(".show2").slideToggle(1200);
   });
+  $("button").click(function(party) {
+    var client = document.getElementById('nameDetail').value;
+    alert('Thanks ' + ' we have received your message successful. ' + '!');
+    party.preventDefault();
+});
+//  *************RESET FORM*****************
+$("button").on('click', function(){
+  $('form').each(function(){
+    this.reset();
+  });
+});
